@@ -8,6 +8,10 @@ Resources for machine learning
 * http://math.mit.edu/~gs/linearalgebra/
 * https://www.khanacademy.org/math/linear-algebra
 
+Course Introduction of 18.065 by Professor Strang
+* https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k
+* http://www-math.mit.edu/~gs/
+
 
 
 ### Multivariate Calculus:
