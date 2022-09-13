@@ -24,6 +24,7 @@ https://www.3blue1brown.com/
 Mathematical Methods in the Physical Sciences by Mary L Boas, John Wiley and Sons, 3rd Ed, 2006
 
 
+## Free Videos
 
 https://matthewrenze.com/articles/best-free-resources-to-learn-ai/
 
